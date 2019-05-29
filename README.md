@@ -9,4 +9,4 @@ void mouseClicked(){
   masks.offer(temp);
  }
 ```
-#### This code is a simple way to take advantage of both our knowledge of processing, and our understanding of a queue. To make multiple filters availible, we stored various png files in a queue (called masks). Rather than parsing through the queue, we simply called the head in draw(), and made the queue dynamic via mouseClicked(). Each time the user clicks, the head is stored and removed, and then placed at the tail.
+This code is a simple way to take advantage of both our knowledge of processing, and our understanding of a queue. To make multiple filters availible, we stored various png files in a queue (called masks). Rather than parsing through the queue, we simply called the head in draw(), and made the queue dynamic via mouseClicked(). Each time the user clicks, the head is stored and removed, and then placed at the tail.
