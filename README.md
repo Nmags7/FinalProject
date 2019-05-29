@@ -21,5 +21,7 @@ Josh Alex
 Acknowledgments
 
 We would like to thank the various Free websites we took our PNG files from
+
 We would like to thank "The Coding Train"
+
 We would like to thank Dr. R
