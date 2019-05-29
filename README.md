@@ -10,3 +10,16 @@ void mouseClicked(){
  }
 ```
 This code is a simple way to take advantage of both our knowledge of processing, and our understanding of a queue. To make multiple filters availible, we stored various png files in a queue (called masks). Rather than parsing through the queue, we simply called the head in draw(), and made the queue dynamic via mouseClicked(). Each time the user clicks, the head is stored and removed, and then placed at the tail.
+
+* [Processing](https://processing.org/) - The IDE used
+
+Authors 
+
+Nick Magnuson
+Josh Alex
+
+Acknowledgments
+
+We would like to thank the various Free websites we took our PNG files from
+We would like to thank "The Coding Train"
+We would like to thank Dr. R
